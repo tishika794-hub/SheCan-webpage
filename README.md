@@ -74,8 +74,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 - **GitHub**: [tishika794-hub](https://github.com/tishika794-hub)
-- **Email**: [Add your contact email]
-- **Website**: [Add your website URL]
+- **Email**: [tishika794@gmail.com]
+  
 
 ## Support
 If you have any questions or need assistance, please open an issue in the repository.
